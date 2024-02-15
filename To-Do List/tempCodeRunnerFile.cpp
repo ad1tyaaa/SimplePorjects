@@ -1,1 +1,0 @@
-getline(std::cin, task);
